@@ -43,6 +43,7 @@ node_modules/
 jspm_packages/
 ios/build/
 ios/Pods/
+android/app/build/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
