@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960152802121",
+    "project_id": "bhandari-shreekul",
+    "storage_bucket": "bhandari-shreekul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960152802121:android:a0ecf15413ad725e410098",
+        "android_client_info": {
+          "package_name": "com.shreekul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960152802121-qggl17okf6t5u66tmtslsol7hjv2hcoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreekul",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "960152802121-5s5p8975k1r48fu4fc6722ctsmilhhna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWUbLDzz29JffgKAWY23-__E9BSg088SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960152802121-5s5p8975k1r48fu4fc6722ctsmilhhna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
